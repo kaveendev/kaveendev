@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaveen_uththara" target="blank"><img src="https://img.shields.io/twitter/follow/kaveen_uththara?logo=twitter&style=for-the-badge" alt="kaveen_uththara" /></a> </p>
 
-- 🔭 I’m currently working on **MERN and Springboot**
+- 🔭 I’m currently working on **MERN and Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot, React Native**
 
